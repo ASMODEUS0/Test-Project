@@ -13,6 +13,7 @@
 		F22DEEE427EDF0B200C9340A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F22DEEE227EDF0B200C9340A /* Main.storyboard */; };
 		F22DEEE627EDF0B400C9340A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F22DEEE527EDF0B400C9340A /* Assets.xcassets */; };
 		F22DEEE927EDF0B400C9340A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F22DEEE727EDF0B400C9340A /* LaunchScreen.storyboard */; };
+		F24848AF27F1A7A00076ADD6 /* Somefile.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24848AE27F1A7A00076ADD6 /* Somefile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F22DEEE527EDF0B400C9340A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F22DEEE827EDF0B400C9340A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F22DEEEA27EDF0B400C9340A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F24848AE27F1A7A00076ADD6 /* Somefile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Somefile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F22DEEDC27EDF0B200C9340A /* AppDelegate.swift */,
 				F22DEEDE27EDF0B200C9340A /* SceneDelegate.swift */,
 				F22DEEE027EDF0B200C9340A /* ViewController.swift */,
+				F24848AE27F1A7A00076ADD6 /* Somefile.swift */,
 				F22DEEE227EDF0B200C9340A /* Main.storyboard */,
 				F22DEEE527EDF0B400C9340A /* Assets.xcassets */,
 				F22DEEE727EDF0B400C9340A /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F22DEEE127EDF0B200C9340A /* ViewController.swift in Sources */,
+				F24848AF27F1A7A00076ADD6 /* Somefile.swift in Sources */,
 				F22DEEDD27EDF0B200C9340A /* AppDelegate.swift in Sources */,
 				F22DEEDF27EDF0B200C9340A /* SceneDelegate.swift in Sources */,
 			);
